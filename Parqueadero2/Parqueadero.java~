@@ -1,0 +1,32 @@
+import java.util.*;
+
+public class Parqueadero {
+
+	Collection<Vehiculo> Vehiculos;
+	Collection<Cliente> Clientes;
+	private String nombre;
+	private String tamanio;
+	private int capacidadTotalVehiculos;
+	private String ubicacion;
+	private int espaciosDisponibles;
+	private boolean seguridad;
+
+	/**
+	 * 
+	 * @param Vehiculo
+	 */
+	public void registrarIngresoVehiculo(Automovil Vehiculo) {
+		// TODO - implement Parqueadero.registrarIngresoVehiculo
+		throw new UnsupportedOperationException();
+	}
+
+	/**
+	 * 
+	 * @param Vehiculo
+	 */
+	public void registrarSalidaVehiculo(Vehiculo Vehiculo) {
+		// TODO - implement Parqueadero.registrarSalidaVehiculo
+		throw new UnsupportedOperationException();
+	}
+
+}
