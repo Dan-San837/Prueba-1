@@ -1,9 +1,0 @@
-public class Visitante extends Usuario {
-    public Visitante(String nombre, String apellido, String telefono) {
-        super(nombre, apellido, telefono);
-    }
-
-    public void pagarPorTiempoUsado() {
-        // Implementar lógica de pago por tiempo usado
-    }
-}
