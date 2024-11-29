@@ -1,0 +1,10 @@
+import java.util.*;
+
+public class MetodoPago {
+
+	Collection<Cliente> Clientes;
+	private string efectivo;
+	private string tranferencia;
+	private string tarjeta;
+
+}

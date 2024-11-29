@@ -1,0 +1,10 @@
+public class Visitante extends Cliente {
+
+	private float tiempoUsado;
+
+	public int pagoTiempoUsado() {
+		// TODO - implement Visitante.pagoTiempoUsado
+		throw new UnsupportedOperationException();
+	}
+
+}

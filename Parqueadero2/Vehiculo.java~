@@ -1,0 +1,13 @@
+public class Vehiculo {
+
+	private string matricula;
+	private string tamaño;
+	private string modelo;
+	private string color;
+
+	public void transportar() {
+		// TODO - implement Vehiculo.transportar
+		throw new UnsupportedOperationException();
+	}
+
+}
